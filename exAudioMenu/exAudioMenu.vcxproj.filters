@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="data">
+      <UniqueIdentifier>{9ca81ded-f1ff-40ae-b631-9710fd90db8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="proc">
+      <UniqueIdentifier>{f37ab158-db71-48ed-acaf-7b84fb647bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mem">
+      <UniqueIdentifier>{96a68675-5933-42a2-ac05-2eeb2ddba8ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="paint">
+      <UniqueIdentifier>{b7dcc189-55d5-4648-a667-e69f9d0ad729}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bgmVolume">
+      <UniqueIdentifier>{a8d443bb-e8b8-4792-b213-0688ff7ed374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="voiceVolume">
+      <UniqueIdentifier>{453b4022-09e1-4a84-8c4d-6d2dcdb3ab82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="seVolume">
+      <UniqueIdentifier>{7f877fe4-5796-408d-a167-11ef376848fe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exAudioMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="detours.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="data.h">
+      <Filter>data</Filter>
+    </ClInclude>
+    <ClInclude Include="proc.h">
+      <Filter>proc</Filter>
+    </ClInclude>
+    <ClInclude Include="mem.h">
+      <Filter>mem</Filter>
+    </ClInclude>
+    <ClInclude Include="paint.h">
+      <Filter>paint</Filter>
+    </ClInclude>
+    <ClInclude Include="bgmVolume.h">
+      <Filter>bgmVolume</Filter>
+    </ClInclude>
+    <ClInclude Include="voiceVolume.h">
+      <Filter>voiceVolume</Filter>
+    </ClInclude>
+    <ClInclude Include="seVolume.h">
+      <Filter>seVolume</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="exAudioMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="data.cpp">
+      <Filter>data</Filter>
+    </ClCompile>
+    <ClCompile Include="proc.cpp">
+      <Filter>proc</Filter>
+    </ClCompile>
+    <ClCompile Include="mem.cpp">
+      <Filter>mem</Filter>
+    </ClCompile>
+    <ClCompile Include="paint.cpp">
+      <Filter>paint</Filter>
+    </ClCompile>
+    <ClCompile Include="bgmVolume.cpp">
+      <Filter>bgmVolume</Filter>
+    </ClCompile>
+    <ClCompile Include="voiceVolume.cpp">
+      <Filter>voiceVolume</Filter>
+    </ClCompile>
+    <ClCompile Include="seVolume.cpp">
+      <Filter>seVolume</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="exAudioMenu.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="exAudioMenu.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

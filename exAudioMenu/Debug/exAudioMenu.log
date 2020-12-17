@@ -1,0 +1,107 @@
+﻿  bgmVolume.cpp
+  exAudioMenu.cpp
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\exAudioMenu.cpp(97,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\exAudioMenu.cpp(101,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\exAudioMenu.cpp(105,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  paint.cpp
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(116,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(116,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(119,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(119,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(122,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(122,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(162,17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(163,16): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(170,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(170,44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(170,81): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(170,70): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(174,17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(180,27): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(180,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(181,35): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(181,26): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(182,37): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(182,26): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(183,29): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(183,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(184,27): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(184,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(203,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(203,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(214,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(214,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(219,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(219,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(224,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(224,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(238,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(238,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(251,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(254,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(257,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(280,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(280,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(315,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(315,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(350,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(350,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(390,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(390,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(390,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(390,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(392,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(414,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(414,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(414,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(414,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(416,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(439,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(439,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(439,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(439,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(441,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2388,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(31): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Daniel Bang\Documents\code\exAudioMenu\exAudioMenu\paint.cpp(31): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  seVolume.cpp
+  voiceVolume.cpp
+  Generating Code...
+bgmVolume.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  exAudioMenu.vcxproj -> C:\Users\Daniel Bang\Documents\code\exAudioMenu\Debug\exAudioMenu.exe
